@@ -1,33 +1,12 @@
 # Site settings
-name: Your Name
+
 title: Your Portfolio Title
-description: A brief description of your portfolio
+
 
 
 # Theme settings
 theme: jekyll-theme-minimal  # Choose a theme from the available GitHub Pages themes or use a custom theme
 
-# Navigation
-navbar_links:
-  - title: Home
-    url: /
-  - title: Projects
-    url: /projects
-  - title: About
-    url: /about
-
-# Build settings
-markdown: kramdown
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-  - LICENSE
-  - README.md
-
-# Additional settings
-# You can add more custom settings or override theme settings here
 
 
 
