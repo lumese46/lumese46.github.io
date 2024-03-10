@@ -2,8 +2,7 @@
 name: Your Name
 title: Your Portfolio Title
 description: A brief description of your portfolio
-url: https://lumese46.github.io   # Your GitHub Pages URL
-baseurl: ""  # Set to empty for GitHub Pages, or if your site is hosted on a subpath, set it to that subpath (e.g., "/myportfolio")
+
 
 # Theme settings
 theme: jekyll-theme-minimal  # Choose a theme from the available GitHub Pages themes or use a custom theme
