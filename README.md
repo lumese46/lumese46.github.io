@@ -1,1 +1,3 @@
-# lumese46.github.io
+# ASPIRING SOFTWARE DEVELOPER
+
+### EDUCATION
